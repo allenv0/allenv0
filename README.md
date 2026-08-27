@@ -1,3 +1,3 @@
 <p align="center">
-  <img width="1000" src="/assets/al.gif" />
+  <img width="1000" src="/assets/al.png" />
 </p>
