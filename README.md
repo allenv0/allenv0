@@ -4,10 +4,6 @@
   </a>
 </p>
 
-Hey, I’m Allen Lee.
+Hey, I’m Allen Lee. Interpretability researcher and ex-founder (consumer products), based in SF and Taipei. I study what safety training and refusal-editing actually change inside language models.
 
-AI safety researcher · generalist engineer · ex-founder in consumer apps.
-
-I’m based in SF/Taipei, working on AI safety, mainly through mechanistic interpretability: trying to understand what safety-trained language models are doing internally, and what safety training and refusal-editing actually change.
-
-If you’re working on making frontier models safer, or building consumer apps that are made with care, I’d love to hear from you 👋
+If you work on making frontier models safer, I’d love to [hear from you](mailto:allenleexyz@gmail.com). I also like talking to people building consumer products with real craft.
